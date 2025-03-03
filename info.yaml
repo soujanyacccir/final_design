@@ -25,14 +25,14 @@ pinout:
   ui[7]: "In 7"
 
   # Outputs
-  uo[0]: "Out 0"
-  uo[1]: "Out 1"
-  uo[2]: "Out 2"
-  uo[3]: "Out 3"
-  uo[4]: "Out 4"
-  uo[5]: "Out 5"
-  uo[6]: "Out 6"
-  uo[7]: "Out 7"
+  uo[0]: "Segment A"
+  uo[1]: "Segment B"
+  uo[2]: "Segment C"
+  uo[3]: "Segment D"
+  uo[4]: "Segment E"
+  uo[5]: "Segment F"
+  uo[6]: "Segment G"
+  uo[7]: "Segment DP"
 
   # Bidirectional pins
   uio[0]: ""
